@@ -31,7 +31,8 @@
         "league/flysystem-webdav": "^1.0",
         "league/flysystem-ziparchive": "^1.0",
         "mockery/mockery": "^1.0",
-        "phpunit/phpunit": "^6.5|^7.0|^8.0"
+        "phpunit/phpunit": "^6.5|^7.0|^8.0",
+        "superbalist/flysystem-google-storage": "^7.2"
     },
     "suggest": {
         "league/flysystem-aws-s3-v3": "AwsS3 adapter support.",
